@@ -1,0 +1,9 @@
+Place	Points	Name
+1st	0	a
+2nd	0	b
+3rd	0	c
+4th	0	d
+5th	0	e
+6th	0	f
+7th	0	g
+8th	0	h
